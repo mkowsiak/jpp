@@ -33,6 +33,7 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 # Building
 
     > git clone https://github.com/mkowsiak/jpp.git
+    > cd jpp
     > ant dist
 
 # Running
