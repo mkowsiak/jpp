@@ -1,5 +1,5 @@
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE)
-[Version](https://img.shields.io/badge/version-v2.7-green.svg)
+![Version](https://img.shields.io/badge/version-v2.7-green.svg)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE)
 # Java Preprocessor
 
