@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE)
 # Java Preprocessor
 
-Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for Java. It helps you generate different Java source code base - depending on <#FreeMarker> based control flow in the sources.
+Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for Java. It helps you generate different Java source code base - depending on [<#FreeMarker>](https://freemarker.apache.org) based control flow in the sources.
 
 # Project structure
 
