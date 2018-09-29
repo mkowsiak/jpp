@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO">
+  <Appenders>        
+    <Console name="ConsoleInfo" target="SYSTEM_OUT">
+      <PatternLayout pattern="%msg%n"/>
+    </Console>     
+    <Console name="ConsoleError" target="SYSTEM_OUT">
+      <PatternLayout pattern="[%-5level] %msg%n"/>
+    </Console>
+    <Routing name="Routing">
+      <Routes>
+        <Script name="RoutingInit" language="JavaScript"><![CDATA[logEvent.getLevel();]]>
+        </Script>
+        <Route ref="ConsoleInfo" key="INFO" />
+        <Route ref="ConsoleError" key="ERROR" />
+      </Routes>
+    </Routing>
+  </Appenders>
+
+  <Loggers> 
+    <Root level="ALL">
+      <AppenderRef ref="Routing"/>
+    </Root>
+  </Loggers>
+</Configuration>
