@@ -1,5 +1,5 @@
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE.md)
-![Version](https://img.shields.io/badge/version-v2.7-green.svg)
+[![Version](https://img.shields.io/badge/version-v2.7-green.svg)](https://github.com/mkowsiak/jpp/archive/master.zip)
 [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE.md)
 # Java Preprocessor
 
@@ -88,3 +88,5 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 - [Place where all the JARs come from ;)](http://repo.maven.apache.org/maven2/)
 - [Fighting the evil 'required' option in commons-cli](https://stackoverflow.com/questions/36720946/apache-cli-required-options-contradicts-with-help-option)
 - [How to preprocess Java with C](https://lyubomyr-shaydariv.github.io/posts/2016-09-06-fun-with-java-and-c-preprocessor/)
+
+[![Download](https://img.shields.io/badge/download-click%20here-red.svg)](https://github.com/mkowsiak/jpp/archive/master.zip)
