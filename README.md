@@ -52,7 +52,9 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 
 ## Preprocessing for different Java versions (e.g. getting JVM version)
 
-![java version](images/java_version.png)
+<p align="center">
+  <img src="https://github.com/mkowsiak/jpp/blob/master/images/java_version.png?raw=true">
+</p>
 
     # if we plan to use the code with version < 9
     ./bin/jpp.sh -Dversion=6 -s sample/src -d sample/preprocessed -f somepackage/JavaVersion.java
@@ -62,7 +64,9 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 
 ## Preprocessing for debug/release versions of code
 
-![debug vs. release](images/debug_vs_release.png)
+<p align="center">
+  <img src="https://github.com/mkowsiak/jpp/blob/master/images/debug_vs_release.png?raw=true">
+</p>
 
     # if we plan to compile code with all debug stuff
     ./bin/jpp.sh -Ddebug=true -s sample/src -d sample/preprocessed -f DebugVsRelease.java
