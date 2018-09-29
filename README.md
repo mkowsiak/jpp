@@ -1,6 +1,6 @@
-[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE.md)
 ![Version](https://img.shields.io/badge/version-v2.7-green.svg)
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/mkowsiak/jpp/blob/master/LICENSE.md)
 # Java Preprocessor
 
 Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for Java. It helps you generate different Java source code base - depending on [<#FreeMarker>](https://freemarker.apache.org) based control flow in the sources.
