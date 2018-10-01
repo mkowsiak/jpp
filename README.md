@@ -56,7 +56,7 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 ## Preprocessing for different Java versions (e.g. getting JVM version)
 
 <p align="center">
-  <a href=""https://github.com/mkowsiak/jpp/blob/master/images/java_version.png?raw=true""><img src="https://github.com/mkowsiak/jpp/blob/master/images/java_version.png?raw=true" width="400"></a>
+  <a href=""https://github.com/mkowsiak/jpp/blob/master/images/java_version.png?raw=true""><img src="https://github.com/mkowsiak/jpp/blob/master/images/java_version.png?raw=true" width="600"></a>
 </p>
 
     # if we plan to use the code with version < 9
@@ -68,7 +68,7 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 ## Preprocessing for debug/release versions of code
 
 <p align="center">
-  <a href="https://github.com/mkowsiak/jpp/blob/master/images/debug_vs_release.png?raw=true"><img src="https://github.com/mkowsiak/jpp/blob/master/images/debug_vs_release.png?raw=true" width="400"></a>
+  <a href="https://github.com/mkowsiak/jpp/blob/master/images/debug_vs_release.png?raw=true"><img src="https://github.com/mkowsiak/jpp/blob/master/images/debug_vs_release.png?raw=true" width="600"></a>
 </p>
 
     # if we plan to compile code with all debug stuff
