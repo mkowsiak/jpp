@@ -56,7 +56,7 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 ## Preprocessing for different Java versions (e.g. getting JVM version)
 
 <p align="center">
-  <a href=""https://github.com/mkowsiak/jpp/blob/master/images/java_version.png?raw=true""><img src="https://raw.githubusercontent.com/mkowsiak/jpp/master/images/java_version.png" width="600"></a>
+  <a href="https://raw.githubusercontent.com/mkowsiak/jpp/master/images/java_version.png"><img src="https://raw.githubusercontent.com/mkowsiak/jpp/master/images/java_version.png" width="600"></a>
 </p>
 
     # if we plan to use the code with version < 9
