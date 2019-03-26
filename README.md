@@ -86,7 +86,7 @@ Based on [<#FreeMarker>](https://freemarker.apache.org) C like preprocessor for 
 - [Adding jars into class path](https://alvinalexander.com/blog/post/java/ant-add-all-jars-lib-directory-to-classpath)
 - [Adding class path jars to jar](https://stackoverflow.com/questions/7057229/how-to-include-classpath-jars-into-a-jar-in-ant)
 - [Nice JAR tutorial - good for refreshing the knowlege](https://www.ibm.com/developerworks/library/j-5things6/index.html)
-- [Place where all the JARs come from ;)](http://repo.maven.apache.org/maven2/)
+- [Place where all the JARs are coming from ;)](http://repo.maven.apache.org/maven2/)
 - [Fighting the evil 'required' option in commons-cli](https://stackoverflow.com/questions/36720946/apache-cli-required-options-contradicts-with-help-option)
 - [How to preprocess Java with C](https://lyubomyr-shaydariv.github.io/posts/2016-09-06-fun-with-java-and-c-preprocessor/)
 
